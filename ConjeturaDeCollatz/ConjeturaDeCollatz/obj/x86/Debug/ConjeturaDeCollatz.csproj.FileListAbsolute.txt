@@ -1,0 +1,15 @@
+C:\Users\Ra\AppData\Local\Temporary Projects\ConjeturaDeCollatz\bin\Debug\ConjeturaDeCollatz.exe
+C:\Users\Ra\AppData\Local\Temporary Projects\ConjeturaDeCollatz\bin\Debug\ConjeturaDeCollatz.pdb
+C:\Users\Ra\AppData\Local\Temporary Projects\ConjeturaDeCollatz\obj\x86\Debug\ConjeturaDeCollatz.FrmMain.resources
+C:\Users\Ra\AppData\Local\Temporary Projects\ConjeturaDeCollatz\obj\x86\Debug\ConjeturaDeCollatz.Properties.Resources.resources
+C:\Users\Ra\AppData\Local\Temporary Projects\ConjeturaDeCollatz\obj\x86\Debug\ConjeturaDeCollatz.csproj.GenerateResource.Cache
+C:\Users\Ra\AppData\Local\Temporary Projects\ConjeturaDeCollatz\obj\x86\Debug\ConjeturaDeCollatz.exe
+C:\Users\Ra\AppData\Local\Temporary Projects\ConjeturaDeCollatz\obj\x86\Debug\ConjeturaDeCollatz.pdb
+C:\Users\Ra\Dropbox\ConjeturaDeCollatz\ConjeturaDeCollatz\obj\x86\Debug\ConjeturaDeCollatz.exe
+C:\Users\Ra\Dropbox\ConjeturaDeCollatz\ConjeturaDeCollatz\obj\x86\Debug\ConjeturaDeCollatz.pdb
+C:\Users\Ra\Dropbox\ConjeturaDeCollatz\ConjeturaDeCollatz\bin\Debug\ConjeturaDeCollatz.exe
+C:\Users\Ra\Dropbox\ConjeturaDeCollatz\ConjeturaDeCollatz\bin\Debug\ConjeturaDeCollatz.pdb
+C:\Users\Ra\Dropbox\ConjeturaDeCollatz\ConjeturaDeCollatz\obj\x86\Debug\ConjeturaDeCollatz.FrmMain.resources
+C:\Users\Ra\Dropbox\ConjeturaDeCollatz\ConjeturaDeCollatz\obj\x86\Debug\ConjeturaDeCollatz.Properties.Resources.resources
+C:\Users\Ra\Dropbox\ConjeturaDeCollatz\ConjeturaDeCollatz\obj\x86\Debug\ConjeturaDeCollatz.csproj.GenerateResource.Cache
+C:\Users\Ra\Dropbox\ConjeturaDeCollatz\ConjeturaDeCollatz\obj\x86\Debug\ConjeturaDeCollatz.csprojResolveAssemblyReference.cache
